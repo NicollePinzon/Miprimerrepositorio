@@ -1,2 +1,1 @@
-# Miprimerrepositorio
-Mi primer repositorio de prueba, modulo 2, Prep Course Henry.
+Este repositorio es una prueba de como crear un repositorio y clonarlo desde github a mi computadora.
